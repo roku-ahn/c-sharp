@@ -1,0 +1,9 @@
+#folder
+.vs/
+*/bin/
+*/obj/
+
+
+#file
+*.csproj
+
